@@ -9,7 +9,7 @@
 [![tvOS](https://img.shields.io/badge/tvOS-13.0+-black.svg)](https://developer.apple.com/tvos/)
 [![watchOS](https://img.shields.io/badge/watchOS-6.0+-orange.svg)](https://developer.apple.com/watchos/)
 
-Package that unifies and exports extensions from three modules:
+Package that unifies and exports extensions from modules:
 
 | Module Name        | Repository Link                                                                 | Version   |
 |--------------------|--------------------------------------------------------------------------------|-----------|
