@@ -17,7 +17,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/inekipelov/swift-result-advance.git", from: "0.1.1"),
         .package(url: "https://github.com/inekipelov/swift-codable-advance.git", from: "0.1.2"),
-        .package(url: "https://github.com/inekipelov/swift-collection-advance.git", from: "0.1.6"),
+        .package(url: "https://github.com/inekipelov/swift-collection-advance.git", from: "0.1.7"),
     ],
     targets: [
         .target(
