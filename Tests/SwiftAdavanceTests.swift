@@ -57,7 +57,7 @@ final class SwiftAdvanceIntegrationTests: XCTestCase {
             {"id": 2, "name": "Mary"}
         ]
         """.data(using: .utf8)!
-        let validUsers = try [User](data: invalidArrayJson, withCompactDecode: true)
+        let validUsers = try [User](data: invalidArrayJson, compactDecode: true)
         XCTAssertEqual(validUsers.count, 2)
     }
 
