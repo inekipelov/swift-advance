@@ -14,7 +14,7 @@ Package that unifies and exports extensions from modules:
 | Module Name        | Repository Link                                                                 | Version   |
 |--------------------|--------------------------------------------------------------------------------|-----------|
 | ResultAdvance      | [swift-result-advance](https://github.com/inekipelov/swift-result-advance)      | 0.1.1     |
-| CodableAdvance     | [swift-codable-advance](https://github.com/inekipelov/swift-codable-advance)    | 0.1.4     |
+| CodableAdvance     | [swift-codable-advance](https://github.com/inekipelov/swift-codable-advance)    | 0.1.5     |
 | CollectionAdvance  | [swift-collection-advance](https://github.com/inekipelov/swift-collection-advance) | 0.1.8     |
 
 
